@@ -14,6 +14,9 @@ module.exports = {
   clientId: 'd8301ee5-7cbe-419e-a7f7-5a8d9d786488',
   obfuscatedClientSecret: 'U2FsdGVkX1/SvbrdPbDsXPCuJam/k5XUMHmvrimZH+9r1pQKCBq9qOBgQTjlOQPzzOS9m3jF2OMxODReYYClVw==',
 
+  authApi: "https://login.partner.microsoftonline.cn/common/oauth2/v2.0/token",
+  driveApi: "https://microsoftgraph.chinacloudapi.cn/v1.0/me/drive",
+
   icon: '/icons/128.png',
 
   // Prefix for KV Storage
