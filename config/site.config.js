@@ -11,8 +11,8 @@ module.exports = {
 
   // [OPTIONAL] This is the website icon to the left of the title inside the navigation bar. It should be placed under the
   // /public directory of your GitHub project (not your OneDrive folder!), and referenced here by its relative path to /public.
-  clientId: 'd8301ee5-7cbe-419e-a7f7-5a8d9d786488',
-  obfuscatedClientSecret: 'U2FsdGVkX1/SvbrdPbDsXPCuJam/k5XUMHmvrimZH+9r1pQKCBq9qOBgQTjlOQPzzOS9m3jF2OMxODReYYClVw==',
+  clientId: 'd87bcc39-1750-4ca0-ad54-f8d0efbb2735',
+  obfuscatedClientSecret: 'U2FsdGVkX1830zo3/pFDqaBCVBb37iLw3WnBDWGF9GIB2f4apzv0roemp8Y+iIxI3Ih5ecyukqELQEGzZlYiWg==',
 
   authApi: "https://login.partner.microsoftonline.cn/common/oauth2/v2.0/token",
   driveApi: "https://microsoftgraph.chinacloudapi.cn/v1.0/me/drive",
@@ -59,7 +59,7 @@ module.exports = {
   links: [
     {
       name: 'GitHub',
-      link: 'https://github.com/spencerwooo/onedrive-vercel-index',
+      link: 'https://github.com/isg32/onedrive-vercel-index',
     },
   ],
 
